@@ -51,7 +51,7 @@
         <repository>
             <id>github</id>
             <name>Github Package Center</name>
-            <url>https://maven.pkg.github.com/oguzhansecgel/tcell.core.pack</url>
+            <url>https://maven.pkg.github.com/tcell-gygy-pair3/core-pair3</url>
         </repository>
     </distributionManagement>
 

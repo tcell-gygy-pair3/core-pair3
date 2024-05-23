@@ -18,6 +18,7 @@ import java.util.List;
 public class BaseJwtFilter extends OncePerRequestFilter {
 
     private final BaseJwtService jwtService;
+    //
 
     public BaseJwtFilter(BaseJwtService jwtService) {
         this.jwtService = jwtService;
